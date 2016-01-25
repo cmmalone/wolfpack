@@ -1,3 +1,3 @@
 # wolfpack
 
-<img src="wolfpack.png">
+<img src="wolfpack.jpg">
